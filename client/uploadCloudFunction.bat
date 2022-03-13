@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-5gds6ojnceafaaac --n lbs_server --r --project "C:\workspace_dora\dora1\client" --report_first --report
